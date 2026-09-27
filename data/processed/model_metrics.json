@@ -1,0 +1,19 @@
+{
+  "full": {
+    "selected_model": "Gradient Boosting",
+    "test_accuracy": 0.9458333333333333,
+    "test_accuracy_95_ci": [
+      0.90954460918174,
+      0.9680748122037034
+    ],
+    "test_macro_f1": 0.9173130991851761,
+    "majority_baseline_accuracy": 0.7291666666666666
+  },
+  "hiring": {
+    "selected_model": "Logistic Regression",
+    "test_accuracy": 0.3125,
+    "test_macro_f1": 0.2805378646759975,
+    "majority_baseline_accuracy": 0.7291666666666666,
+    "usable_for_hiring": false
+  }
+}

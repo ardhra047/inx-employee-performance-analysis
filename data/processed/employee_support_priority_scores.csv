@@ -1,0 +1,1201 @@
+EmpNumber,EmpDepartment,EmpJobRole,PerformanceRating,probability_lowest_rating,flagged_for_support_review
+E1001831,Research & Development,Healthcare Representative,2,0.933,True
+E1001516,Research & Development,Research Scientist,2,0.932,True
+E1001943,Finance,Finance Manager,2,0.928,True
+E100522,Sales,Sales Executive,2,0.924,True
+E1001402,Sales,Manager,2,0.914,True
+E100338,Sales,Sales Executive,2,0.914,True
+E100875,Sales,Manager,2,0.91,True
+E1001129,Sales,Manager,3,0.91,True
+E1001821,Research & Development,Research Scientist,2,0.908,True
+E1001979,Research & Development,Research Scientist,2,0.908,True
+E1002271,Research & Development,Manager R&D,2,0.905,True
+E1002018,Sales,Manager,2,0.901,True
+E1001135,Sales,Sales Executive,3,0.901,True
+E1001767,Sales,Sales Executive,2,0.901,True
+E1001716,Research & Development,Research Scientist,2,0.9,True
+E100832,Sales,Sales Representative,3,0.9,True
+E1001313,Research & Development,Research Director,2,0.899,True
+E1001731,Sales,Sales Executive,2,0.899,True
+E1001124,Sales,Sales Executive,3,0.898,True
+E100403,Sales,Sales Executive,2,0.898,True
+E1001653,Research & Development,Manager R&D,2,0.898,True
+E1002302,Sales,Sales Executive,2,0.898,True
+E1001811,Research & Development,Laboratory Technician,2,0.897,True
+E1001586,Research & Development,Research Scientist,2,0.892,True
+E1001745,Human Resources,Human Resources,2,0.892,True
+E100461,Sales,Sales Executive,2,0.89,True
+E1001555,Sales,Manager,2,0.89,True
+E100665,Sales,Sales Executive,2,0.889,True
+E1001379,Research & Development,Research Scientist,2,0.889,True
+E1001010,Sales,Sales Executive,3,0.888,True
+E1002101,Sales,Sales Executive,2,0.887,True
+E1002115,Research & Development,Manager R&D,2,0.887,True
+E1002062,Sales,Sales Executive,2,0.886,True
+E1001577,Research & Development,Laboratory Technician,2,0.885,True
+E1002319,Sales,Sales Executive,2,0.885,True
+E1002194,Research & Development,Laboratory Technician,2,0.884,True
+E1001167,Sales,Sales Executive,3,0.881,True
+E1002141,Sales,Sales Executive,2,0.88,True
+E1001874,Finance,Finance Manager,2,0.88,True
+E1001890,Sales,Sales Executive,2,0.88,True
+E1002102,Sales,Manager,2,0.88,True
+E1001858,Research & Development,Manager R&D,2,0.879,True
+E1002079,Sales,Sales Executive,2,0.879,True
+E1001761,Research & Development,Research Scientist,2,0.878,True
+E1001316,Sales,Manager,2,0.878,True
+E1002024,Human Resources,Human Resources,2,0.878,True
+E1001918,Finance,Finance Manager,2,0.878,True
+E1002107,Research & Development,Healthcare Representative,2,0.876,True
+E1001838,Sales,Sales Executive,2,0.876,True
+E1001372,Research & Development,Senior Manager R&D,2,0.875,True
+E100441,Sales,Sales Executive,2,0.875,True
+E100359,Sales,Sales Executive,2,0.874,True
+E1001650,Sales,Sales Executive,2,0.873,True
+E1002334,Sales,Sales Executive,2,0.873,True
+E1001444,Research & Development,Research Director,2,0.873,True
+E100811,Sales,Sales Executive,2,0.872,True
+E100599,Human Resources,Human Resources,2,0.872,True
+E100506,Sales,Sales Executive,2,0.872,True
+E1001597,Sales,Sales Executive,2,0.872,True
+E1002247,Research & Development,Research Scientist,2,0.872,True
+E1001677,Sales,Sales Executive,2,0.871,True
+E100762,Sales,Sales Representative,2,0.871,True
+E1001758,Research & Development,Laboratory Technician,2,0.871,True
+E1001300,Research & Development,Healthcare Representative,2,0.87,True
+E100766,Sales,Sales Executive,2,0.87,True
+E1001640,Sales,Sales Executive,2,0.869,True
+E100878,Sales,Sales Executive,2,0.867,True
+E1001346,Research & Development,Research Scientist,2,0.867,True
+E1001305,Research & Development,Senior Manager R&D,2,0.867,True
+E1001886,Finance,Finance Manager,2,0.866,True
+E1001923,Sales,Sales Executive,2,0.866,True
+E1001545,Sales,Manager,2,0.865,True
+E1001840,Sales,Sales Executive,2,0.865,True
+E100589,Sales,Sales Representative,2,0.864,True
+E100903,Sales,Manager,2,0.864,True
+E1002228,Sales,Sales Executive,2,0.864,True
+E1002011,Sales,Sales Executive,2,0.863,True
+E100574,Data Science,Data Scientist,3,0.863,True
+E1002335,Research & Development,Manufacturing Director,2,0.862,True
+E1002264,Sales,Sales Executive,2,0.862,True
+E100453,Sales,Sales Executive,2,0.862,True
+E1001655,Research & Development,Laboratory Technician,2,0.862,True
+E1001827,Research & Development,Laboratory Technician,2,0.861,True
+E1001763,Research & Development,Research Director,2,0.861,True
+E1001774,Research & Development,Manager R&D,2,0.86,True
+E1002091,Research & Development,Research Scientist,2,0.859,True
+E1002127,Sales,Sales Executive,2,0.859,True
+E1002246,Sales,Sales Executive,2,0.858,True
+E1001370,Research & Development,Senior Manager R&D,2,0.856,True
+E1001171,Sales,Sales Representative,3,0.856,True
+E1001751,Research & Development,Manager R&D,2,0.856,True
+E1002253,Sales,Sales Executive,2,0.855,True
+E1002030,Sales,Sales Representative,2,0.854,True
+E1001522,Research & Development,Manager R&D,2,0.853,True
+E1002293,Research & Development,Research Director,2,0.852,True
+E1002083,Human Resources,Human Resources,2,0.852,True
+E1002207,Sales,Sales Executive,2,0.851,True
+E1001063,Sales,Sales Executive,3,0.85,True
+E1001972,Finance,Finance Manager,2,0.85,True
+E1001717,Sales,Sales Representative,2,0.85,True
+E1001524,Research & Development,Manager R&D,2,0.849,True
+E1002170,Research & Development,Manager R&D,2,0.849,True
+E1002056,Human Resources,Human Resources,2,0.849,True
+E100805,Sales,Sales Executive,2,0.846,True
+E1002274,Sales,Sales Representative,2,0.842,True
+E1001924,Finance,Finance Manager,2,0.841,True
+E100542,Development,Technical Lead,3,0.84,True
+E1001826,Sales,Sales Executive,2,0.839,True
+E100352,Sales,Sales Executive,2,0.837,True
+E1001883,Finance,Finance Manager,2,0.837,True
+E1001685,Research & Development,Research Scientist,3,0.837,True
+E1002142,Sales,Sales Representative,2,0.835,True
+E1001698,Research & Development,Manager R&D,3,0.835,True
+E100873,Sales,Sales Executive,2,0.834,True
+E1002111,Sales,Sales Executive,2,0.832,True
+E1002298,Research & Development,Research Scientist,2,0.832,True
+E1002259,Research & Development,Healthcare Representative,2,0.83,True
+E1001713,Research & Development,Laboratory Technician,2,0.83,True
+E100301,Sales,Manager,2,0.828,True
+E1001680,Research & Development,Research Scientist,2,0.828,True
+E1001322,Sales,Sales Representative,2,0.827,True
+E1001360,Research & Development,Senior Manager R&D,2,0.827,True
+E1001428,Research & Development,Manufacturing Director,2,0.826,True
+E1001899,Finance,Finance Manager,2,0.826,True
+E1002209,Research & Development,Manager R&D,2,0.825,True
+E100759,Sales,Sales Executive,2,0.824,True
+E1001466,Sales,Sales Executive,2,0.822,True
+E1001633,Sales,Sales Executive,2,0.82,True
+E100316,Sales,Manager,2,0.815,True
+E1001832,Sales,Sales Representative,2,0.814,True
+E1001009,Human Resources,Manager,3,0.814,True
+E1001315,Sales,Sales Executive,2,0.813,True
+E1001669,Sales,Sales Executive,2,0.812,True
+E1002092,Research & Development,Healthcare Representative,2,0.812,True
+E1001933,Finance,Finance Manager,2,0.81,True
+E1001668,Sales,Sales Executive,2,0.81,True
+E1001798,Research & Development,Manager R&D,2,0.809,True
+E1002219,Research & Development,Manager R&D,2,0.809,True
+E100990,Sales,Sales Executive,3,0.808,True
+E100561,Sales,Sales Executive,2,0.808,True
+E1001394,Research & Development,Manager R&D,2,0.807,True
+E1002291,Sales,Sales Representative,2,0.806,True
+E1001974,Research & Development,Manager R&D,2,0.804,True
+E1002082,Research & Development,Manager R&D,2,0.798,True
+E1001306,Research & Development,Laboratory Technician,2,0.796,True
+E100485,Sales,Sales Executive,2,0.794,True
+E1001395,Sales,Sales Executive,2,0.791,True
+E100791,Sales,Sales Executive,2,0.791,True
+E1002292,Research & Development,Research Scientist,2,0.789,True
+E1001449,Sales,Sales Executive,4,0.788,True
+E1002346,Research & Development,Laboratory Technician,3,0.787,True
+E1001293,Research & Development,Research Director,2,0.783,True
+E1001405,Research & Development,Healthcare Representative,2,0.781,True
+E100998,Sales,Sales Executive,2,0.776,True
+E1001331,Research & Development,Research Scientist,2,0.771,True
+E1002166,Research & Development,Manufacturing Director,2,0.77,True
+E1001967,Finance,Finance Manager,2,0.768,True
+E1001937,Finance,Finance Manager,2,0.765,True
+E100346,Sales,Sales Executive,2,0.765,True
+E1001061,Sales,Sales Representative,3,0.764,True
+E100931,Sales,Sales Executive,2,0.763,True
+E100756,Sales,Sales Representative,2,0.763,True
+E1002158,Sales,Sales Executive,2,0.76,True
+E1001485,Human Resources,Human Resources,2,0.755,True
+E1002134,Research & Development,Laboratory Technician,2,0.744,True
+E1001864,Research & Development,Manager R&D,2,0.743,True
+E1001708,Research & Development,Research Director,3,0.743,True
+E1001297,Research & Development,Laboratory Technician,2,0.737,True
+E1002185,Research & Development,Manager R&D,2,0.734,True
+E1001219,Sales,Sales Representative,3,0.725,True
+E1001361,Research & Development,Laboratory Technician,2,0.724,True
+E100919,Sales,Sales Executive,3,0.723,True
+E1001884,Finance,Finance Manager,2,0.723,True
+E1002305,Research & Development,Research Scientist,2,0.72,True
+E1001673,Sales,Sales Executive,2,0.718,True
+E1002287,Research & Development,Healthcare Representative,2,0.71,True
+E1001764,Sales,Sales Representative,2,0.709,True
+E1001719,Research & Development,Manager R&D,4,0.697,True
+E100869,Data Science,Data Scientist,3,0.693,True
+E1001911,Finance,Finance Manager,2,0.688,True
+E100702,Human Resources,Human Resources,2,0.687,True
+E1001557,Research & Development,Laboratory Technician,2,0.684,True
+E100630,Data Science,Data Scientist,2,0.684,True
+E1001887,Finance,Finance Manager,2,0.678,True
+E100870,Sales,Sales Executive,2,0.677,True
+E1001441,Sales,Sales Executive,2,0.675,True
+E1001376,Human Resources,Human Resources,2,0.673,True
+E100590,Sales,Sales Executive,2,0.629,True
+E1001396,Research & Development,Healthcare Representative,2,0.624,True
+E100922,Human Resources,Manager,2,0.596,True
+E1002003,Research & Development,Laboratory Technician,2,0.554,True
+E100980,Development,Senior Developer,3,0.543,True
+E100703,Development,Technical Lead,3,0.535,True
+E1001339,Research & Development,Senior Manager R&D,3,0.512,True
+E1001868,Finance,Finance Manager,2,0.511,True
+E100607,Sales,Manager,2,0.502,True
+E100902,Development,Senior Developer,2,0.497,False
+E100961,Development,Senior Developer,3,0.478,False
+E100311,Development,Senior Developer,3,0.477,False
+E1001166,Development,Senior Developer,3,0.473,False
+E100483,Sales,Sales Representative,2,0.463,False
+E100615,Development,Technical Lead,2,0.459,False
+E100928,Sales,Sales Executive,3,0.427,False
+E100969,Development,Senior Developer,3,0.413,False
+E100356,Development,Developer,3,0.399,False
+E100659,Development,Technical Lead,3,0.393,False
+E100807,Development,Senior Developer,3,0.371,False
+E1002278,Research & Development,Research Scientist,2,0.366,False
+E1001825,Research & Development,Healthcare Representative,3,0.363,False
+E100440,Development,Developer,3,0.362,False
+E100809,Development,Senior Developer,2,0.356,False
+E100800,Development,Developer,3,0.319,False
+E1001183,Development,Developer,3,0.317,False
+E100428,Development,Business Analyst,3,0.308,False
+E100306,Development,Developer,3,0.301,False
+E100296,Development,Senior Developer,2,0.301,False
+E100988,Development,Developer,3,0.292,False
+E100298,Development,Senior Developer,2,0.292,False
+E100847,Development,Senior Developer,3,0.292,False
+E1001743,Research & Development,Manager R&D,3,0.286,False
+E100388,Development,Business Analyst,3,0.285,False
+E1001575,Research & Development,Laboratory Technician,3,0.282,False
+E100862,Development,Developer,3,0.28,False
+E100416,Development,Developer,3,0.266,False
+E1001153,Development,Senior Developer,3,0.259,False
+E100802,Development,Developer,3,0.255,False
+E100385,Development,Developer,3,0.251,False
+E1001175,Sales,Sales Executive,3,0.249,False
+E100953,Development,Developer,3,0.242,False
+E1001070,Development,Developer,3,0.236,False
+E1001115,Development,Developer,3,0.229,False
+E100789,Development,Developer,3,0.226,False
+E100294,Development,Developer,2,0.221,False
+E100304,Development,Developer,3,0.221,False
+E1001050,Development,Developer,3,0.214,False
+E100925,Development,Senior Developer,2,0.211,False
+E1001800,Research & Development,Research Scientist,3,0.204,False
+E100351,Development,Developer,2,0.191,False
+E100398,Sales,Sales Executive,3,0.189,False
+E1001248,Sales,Sales Executive,2,0.179,False
+E100901,Development,Developer,4,0.175,False
+E100860,Development,Senior Developer,2,0.173,False
+E1001081,Development,Developer,3,0.166,False
+E100913,Development,Developer,3,0.158,False
+E100309,Development,Developer,3,0.155,False
+E1001019,Development,Developer,3,0.155,False
+E1002312,Research & Development,Manufacturing Director,3,0.152,False
+E100505,Development,Developer,3,0.152,False
+E100968,Sales,Sales Executive,3,0.149,False
+E100668,Development,Developer,3,0.139,False
+E100660,Sales,Sales Executive,4,0.132,False
+E1002342,Research & Development,Manufacturing Director,3,0.132,False
+E100927,Development,Developer,3,0.13,False
+E1001414,Research & Development,Manager R&D,3,0.13,False
+E100917,Development,Developer,3,0.129,False
+E1001075,Development,Developer,3,0.127,False
+E100628,Development,Developer,3,0.125,False
+E1001497,Research & Development,Laboratory Technician,3,0.124,False
+E1002181,Research & Development,Healthcare Representative,3,0.123,False
+E100384,Sales,Sales Executive,3,0.122,False
+E100340,Sales,Sales Executive,3,0.122,False
+E100279,Sales,Sales Executive,2,0.118,False
+E100358,Development,Developer,3,0.118,False
+E100606,Development,Developer,3,0.116,False
+E1001458,Research & Development,Research Scientist,3,0.116,False
+E100663,Development,Developer,2,0.113,False
+E100551,Development,Technical Lead,3,0.113,False
+E100285,Development,Developer,2,0.112,False
+E100449,Development,Developer,3,0.112,False
+E1001326,Sales,Manager,3,0.106,False
+E1001121,Development,Developer,3,0.106,False
+E100462,Human Resources,Human Resources,3,0.104,False
+E1001114,Development,Developer,3,0.1,False
+E1001523,Research & Development,Manufacturing Director,3,0.098,False
+E100717,Development,Technical Lead,3,0.097,False
+E1002171,Research & Development,Research Scientist,3,0.095,False
+E1001639,Research & Development,Laboratory Technician,3,0.095,False
+E1001042,Development,Developer,3,0.094,False
+E1001442,Human Resources,Human Resources,2,0.093,False
+E1001712,Research & Development,Manager R&D,3,0.093,False
+E1001411,Research & Development,Manufacturing Director,3,0.09,False
+E100545,Development,Developer,3,0.09,False
+E100647,Development,Developer,3,0.087,False
+E100662,Data Science,Data Scientist,3,0.087,False
+E1002168,Human Resources,Human Resources,4,0.087,False
+E100670,Development,Developer,3,0.086,False
+E1001022,Development,Developer,3,0.085,False
+E1002058,Sales,Sales Representative,3,0.081,False
+E100521,Development,Developer,4,0.077,False
+E1002113,Sales,Sales Representative,3,0.076,False
+E1001212,Development,Developer,3,0.075,False
+E1001150,Development,Senior Developer,3,0.075,False
+E1002044,Research & Development,Healthcare Representative,3,0.074,False
+E100645,Data Science,Data Scientist,4,0.072,False
+E100366,Development,Developer,3,0.072,False
+E100508,Sales,Sales Executive,4,0.072,False
+E1002104,Research & Development,Laboratory Technician,3,0.071,False
+E1001071,Development,Developer,3,0.071,False
+E100681,Development,Developer,2,0.071,False
+E100798,Development,Developer,2,0.07,False
+E1002151,Research & Development,Research Scientist,3,0.07,False
+E1002009,Sales,Sales Executive,3,0.069,False
+E100547,Development,Developer,3,0.069,False
+E1001443,Sales,Sales Executive,2,0.068,False
+E1001038,Human Resources,Human Resources,3,0.068,False
+E1001812,Research & Development,Laboratory Technician,3,0.065,False
+E100704,Development,Developer,3,0.065,False
+E1001807,Research & Development,Manager R&D,3,0.063,False
+E100410,Development,Developer,3,0.062,False
+E1001652,Research & Development,Research Scientist,3,0.06,False
+E1001152,Development,Developer,3,0.06,False
+E100381,Human Resources,Human Resources,3,0.059,False
+E1001498,Sales,Sales Executive,3,0.059,False
+E100777,Development,Delivery Manager,3,0.059,False
+E100731,Sales,Sales Executive,3,0.058,False
+E1001737,Research & Development,Manager R&D,3,0.056,False
+E100323,Development,Developer,3,0.055,False
+E100564,Development,Developer,3,0.054,False
+E100456,Development,Developer,3,0.054,False
+E1001191,Development,Developer,3,0.052,False
+E100484,Development,Developer,3,0.051,False
+E1002323,Sales,Sales Executive,3,0.051,False
+E1001067,Sales,Sales Executive,3,0.051,False
+E1002227,Research & Development,Manager R&D,3,0.05,False
+E1001738,Research & Development,Manager R&D,3,0.049,False
+E100824,Data Science,Data Scientist,3,0.049,False
+E1001455,Research & Development,Manager R&D,3,0.048,False
+E100898,Sales,Sales Executive,3,0.047,False
+E1001689,Research & Development,Manager R&D,3,0.046,False
+E100611,Sales,Sales Executive,3,0.046,False
+E1002249,Research & Development,Healthcare Representative,3,0.046,False
+E1001236,Development,Developer,4,0.046,False
+E1002202,Sales,Sales Executive,3,0.046,False
+E1001035,Development,Developer,3,0.045,False
+E1001220,Development,Senior Developer,3,0.044,False
+E100526,Sales,Sales Representative,3,0.043,False
+E1001925,Finance,Finance Manager,3,0.042,False
+E1001156,Human Resources,Human Resources,3,0.042,False
+E1001703,Sales,Sales Executive,3,0.041,False
+E1002296,Sales,Sales Executive,3,0.041,False
+E100776,Sales,Sales Executive,3,0.041,False
+E100383,Development,Business Analyst,3,0.041,False
+E1001900,Finance,Finance Manager,3,0.041,False
+E1002053,Research & Development,Manufacturing Director,3,0.041,False
+E100736,Sales,Sales Executive,3,0.041,False
+E100812,Sales,Sales Executive,3,0.04,False
+E100325,Sales,Sales Representative,3,0.04,False
+E1002176,Sales,Sales Executive,3,0.038,False
+E1001385,Research & Development,Manager R&D,4,0.038,False
+E1001473,Research & Development,Manager R&D,3,0.038,False
+E1001920,Human Resources,Human Resources,3,0.037,False
+E1002200,Research & Development,Manager R&D,3,0.036,False
+E100868,Human Resources,Human Resources,3,0.036,False
+E100637,Development,Technical Lead,3,0.036,False
+E1002286,Research & Development,Research Scientist,3,0.036,False
+E1001268,Sales,Sales Executive,3,0.036,False
+E1001210,Development,Senior Developer,3,0.035,False
+E1001327,Human Resources,Human Resources,3,0.035,False
+E100406,Sales,Sales Executive,3,0.034,False
+E1001263,Sales,Sales Executive,3,0.034,False
+E1001288,Research & Development,Laboratory Technician,3,0.034,False
+E100882,Sales,Sales Executive,3,0.034,False
+E1001865,Research & Development,Healthcare Representative,3,0.033,False
+E1002017,Sales,Sales Executive,3,0.033,False
+E100822,Development,Developer,3,0.033,False
+E1001697,Human Resources,Human Resources,3,0.033,False
+E1001726,Research & Development,Manager R&D,3,0.033,False
+E100780,Sales,Sales Executive,3,0.032,False
+E100363,Development,Business Analyst,4,0.032,False
+E1001097,Sales,Sales Executive,3,0.032,False
+E1001239,Development,Developer,3,0.031,False
+E1001780,Research & Development,Manager R&D,3,0.031,False
+E100840,Development,Senior Developer,3,0.03,False
+E1002027,Sales,Sales Executive,4,0.03,False
+E1002332,Research & Development,Research Scientist,2,0.03,False
+E1001217,Development,Senior Developer,3,0.029,False
+E100501,Development,Developer,3,0.029,False
+E1001693,Research & Development,Laboratory Technician,3,0.028,False
+E100425,Development,Developer,4,0.028,False
+E1001381,Research & Development,Healthcare Representative,3,0.028,False
+E100690,Data Science,Data Scientist,3,0.027,False
+E100923,Sales,Sales Representative,3,0.027,False
+E100825,Development,Developer,3,0.027,False
+E100859,Development,Senior Developer,3,0.026,False
+E1002218,Research & Development,Manager R&D,4,0.026,False
+E1001325,Sales,Sales Executive,3,0.026,False
+E100697,Development,Technical Lead,3,0.026,False
+E100853,Development,Senior Developer,3,0.026,False
+E1001718,Research & Development,Manager R&D,3,0.026,False
+E100799,Development,Developer,4,0.026,False
+E100355,Development,Business Analyst,3,0.026,False
+E100496,Development,Developer,3,0.026,False
+E1001277,Development,Developer,3,0.025,False
+E100619,Development,Technical Lead,4,0.025,False
+E1001855,Research & Development,Research Scientist,3,0.025,False
+E1001584,Research & Development,Manager,4,0.025,False
+E1001661,Research & Development,Healthcare Representative,3,0.025,False
+E100407,Sales,Sales Executive,4,0.025,False
+E1002042,Research & Development,Research Scientist,3,0.024,False
+E1001470,Research & Development,Manager R&D,3,0.024,False
+E100584,Development,Developer,3,0.024,False
+E1002223,Sales,Sales Executive,2,0.024,False
+E1002186,Sales,Sales Executive,2,0.024,False
+E1001204,Development,Developer,3,0.023,False
+E1001132,Development,Developer,3,0.023,False
+E100900,Development,Developer,3,0.023,False
+E100827,Development,Developer,3,0.023,False
+E1002117,Research & Development,Manager R&D,3,0.023,False
+E100472,Development,Developer,3,0.023,False
+E1002310,Research & Development,Laboratory Technician,2,0.022,False
+E100949,Development,Senior Developer,3,0.022,False
+E1001189,Development,Developer,3,0.021,False
+E100942,Development,Senior Developer,3,0.021,False
+E100838,Development,Senior Developer,3,0.021,False
+E100652,Development,Developer,3,0.021,False
+E100943,Human Resources,Human Resources,3,0.021,False
+E100419,Development,Business Analyst,3,0.02,False
+E1001062,Development,Developer,3,0.02,False
+E100417,Development,Business Analyst,3,0.02,False
+E1001083,Sales,Sales Representative,3,0.02,False
+E100603,Development,Developer,3,0.02,False
+E100374,Development,Developer,3,0.02,False
+E1001349,Research & Development,Senior Manager R&D,3,0.02,False
+E100957,Development,Developer,3,0.019,False
+E100445,Sales,Sales Representative,3,0.019,False
+E1001885,Finance,Finance Manager,3,0.019,False
+E1001020,Development,Developer,3,0.019,False
+E100314,Development,Developer,3,0.019,False
+E100499,Development,Developer,3,0.019,False
+E1001526,Research & Development,Research Scientist,4,0.019,False
+E1002245,Sales,Sales Executive,3,0.018,False
+E1001960,Finance,Finance Manager,3,0.018,False
+E1001999,Research & Development,Laboratory Technician,3,0.018,False
+E100609,Development,Developer,3,0.018,False
+E1001140,Sales,Sales Executive,3,0.018,False
+E100816,Development,Developer,3,0.018,False
+E1001273,Development,Developer,3,0.018,False
+E1001282,Development,Developer,3,0.018,False
+E100732,Development,Developer,3,0.018,False
+E100977,Development,Developer,3,0.017,False
+E1001182,Sales,Sales Executive,3,0.017,False
+E100447,Development,Developer,3,0.017,False
+E100457,Development,Business Analyst,4,0.017,False
+E100292,Development,Developer,3,0.017,False
+E1001237,Sales,Sales Representative,3,0.017,False
+E100683,Development,Developer,3,0.017,False
+E100689,Sales,Sales Representative,3,0.017,False
+E1002007,Research & Development,Research Scientist,3,0.017,False
+E100559,Development,Developer,3,0.017,False
+E1001634,Sales,Sales Executive,3,0.017,False
+E100842,Development,Developer,3,0.017,False
+E100409,Sales,Sales Executive,3,0.016,False
+E100565,Development,Technical Lead,3,0.016,False
+E1001227,Development,Developer,3,0.016,False
+E1001211,Development,Developer,3,0.016,False
+E1002217,Research & Development,Research Scientist,3,0.016,False
+E100342,Development,Developer,3,0.016,False
+E1001264,Sales,Sales Executive,3,0.016,False
+E1001435,Sales,Sales Executive,3,0.016,False
+E1001147,Human Resources,Human Resources,3,0.016,False
+E1001490,Sales,Sales Executive,3,0.016,False
+E1002031,Research & Development,Healthcare Representative,3,0.015,False
+E100672,Data Science,Data Scientist,3,0.015,False
+E1002288,Research & Development,Laboratory Technician,3,0.015,False
+E1001318,Sales,Sales Executive,3,0.015,False
+E100699,Development,Developer,3,0.015,False
+E1002322,Sales,Sales Executive,4,0.015,False
+E1001759,Sales,Sales Executive,3,0.015,False
+E100724,Sales,Sales Executive,4,0.015,False
+E1001947,Sales,Sales Executive,3,0.015,False
+E100657,Development,Developer,4,0.015,False
+E1001314,Sales,Sales Executive,3,0.015,False
+E1001460,Research & Development,Manufacturing Director,3,0.015,False
+E1001945,Sales,Sales Executive,4,0.015,False
+E1001503,Research & Development,Research Scientist,4,0.015,False
+E1001616,Human Resources,Manager,3,0.015,False
+E100536,Development,Developer,3,0.015,False
+E1002230,Research & Development,Laboratory Technician,3,0.015,False
+E1002189,Research & Development,Manager R&D,3,0.015,False
+E100894,Development,Developer,3,0.015,False
+E1002290,Research & Development,Laboratory Technician,3,0.015,False
+E100933,Development,Developer,3,0.015,False
+E1001110,Development,Developer,3,0.015,False
+E1002212,Research & Development,Manager R&D,3,0.014,False
+E100871,Development,Senior Developer,3,0.014,False
+E100983,Development,Developer,4,0.014,False
+E1001711,Research & Development,Research Scientist,3,0.014,False
+E1001784,Research & Development,Manager R&D,3,0.014,False
+E100479,Development,Technical Lead,3,0.014,False
+E1002295,Research & Development,Research Director,4,0.014,False
+E1001863,Sales,Sales Executive,3,0.014,False
+E1001021,Development,Developer,3,0.014,False
+E1002260,Research & Development,Laboratory Technician,3,0.014,False
+E1001560,Sales,Manager,4,0.014,False
+E1002222,Human Resources,Human Resources,3,0.014,False
+E100846,Sales,Manager,3,0.014,False
+E1002221,Sales,Sales Executive,3,0.014,False
+E100644,Sales,Sales Executive,3,0.014,False
+E100329,Development,Developer,3,0.014,False
+E100656,Sales,Sales Executive,4,0.014,False
+E100364,Development,Business Analyst,3,0.014,False
+E100333,Development,Technical Architect,3,0.014,False
+E1002012,Sales,Sales Executive,3,0.014,False
+E100620,Development,Developer,3,0.014,False
+E1001389,Research & Development,Manager R&D,3,0.014,False
+E1001436,Research & Development,Laboratory Technician,3,0.014,False
+E1001787,Research & Development,Laboratory Technician,4,0.013,False
+E100976,Human Resources,Human Resources,3,0.013,False
+E1001406,Research & Development,Manager R&D,3,0.013,False
+E100890,Development,Developer,3,0.013,False
+E1002154,Sales,Sales Representative,3,0.013,False
+E1002297,Sales,Sales Representative,3,0.013,False
+E1001196,Development,Developer,3,0.013,False
+E1002285,Research & Development,Research Scientist,3,0.013,False
+E100658,Development,Developer,3,0.013,False
+E1001290,Research & Development,Research Scientist,3,0.013,False
+E1002123,Sales,Sales Executive,4,0.013,False
+E1001794,Research & Development,Manager,3,0.013,False
+E100436,Sales,Manager,3,0.013,False
+E1002130,Research & Development,Laboratory Technician,3,0.013,False
+E1001112,Development,Developer,3,0.013,False
+E1001847,Research & Development,Laboratory Technician,3,0.013,False
+E1001657,Sales,Sales Representative,3,0.013,False
+E1001471,Research & Development,Research Scientist,4,0.013,False
+E1001123,Development,Developer,4,0.013,False
+E100642,Development,Developer,3,0.013,False
+E100631,Development,Developer,3,0.013,False
+E1001259,Sales,Manager,3,0.013,False
+E1002036,Sales,Sales Executive,4,0.013,False
+E1002329,Research & Development,Research Scientist,3,0.013,False
+E1001421,Research & Development,Research Scientist,3,0.012,False
+E1001352,Research & Development,Manager,4,0.012,False
+E100865,Development,Developer,3,0.012,False
+E1001434,Research & Development,Laboratory Technician,3,0.012,False
+E1001426,Research & Development,Laboratory Technician,3,0.012,False
+E1001384,Research & Development,Manager R&D,3,0.012,False
+E1002226,Research & Development,Research Scientist,3,0.012,False
+E100745,Sales,Sales Representative,3,0.012,False
+E1001323,Sales,Manager,3,0.012,False
+E1001567,Human Resources,Human Resources,3,0.012,False
+E100555,Development,Developer,3,0.012,False
+E1001571,Sales,Sales Executive,3,0.012,False
+E1002022,Human Resources,Human Resources,4,0.012,False
+E1002035,Sales,Sales Executive,3,0.012,False
+E1001592,Human Resources,Human Resources,3,0.012,False
+E1001118,Sales,Sales Executive,3,0.012,False
+E100291,Development,Senior Developer,3,0.012,False
+E1001581,Research & Development,Research Scientist,3,0.012,False
+E1001902,Sales,Sales Representative,3,0.012,False
+E1001959,Sales,Sales Executive,4,0.012,False
+E1001903,Human Resources,Manager,3,0.012,False
+E100858,Sales,Sales Executive,3,0.012,False
+E1001563,Research & Development,Laboratory Technician,3,0.012,False
+E1001308,Research & Development,Laboratory Technician,3,0.012,False
+E1002257,Research & Development,Research Director,4,0.012,False
+E1001093,Development,Developer,3,0.011,False
+E1002263,Research & Development,Laboratory Technician,3,0.011,False
+E100852,Development,Developer,3,0.011,False
+E100844,Human Resources,Human Resources,3,0.011,False
+E1001094,Development,Developer,3,0.011,False
+E100892,Sales,Sales Representative,3,0.011,False
+E100482,Sales,Sales Executive,3,0.011,False
+E100843,Development,Developer,3,0.011,False
+E1002210,Research & Development,Research Scientist,3,0.011,False
+E1002153,Sales,Sales Representative,3,0.011,False
+E1002002,Research & Development,Manufacturing Director,3,0.011,False
+E1002067,Research & Development,Research Director,3,0.011,False
+E1002070,Research & Development,Research Scientist,3,0.011,False
+E1002330,Research & Development,Research Scientist,3,0.011,False
+E100682,Sales,Sales Executive,3,0.011,False
+E100592,Sales,Sales Executive,4,0.011,False
+E1001157,Sales,Sales Executive,3,0.011,False
+E1001534,Research & Development,Manager R&D,3,0.011,False
+E100808,Development,Developer,3,0.011,False
+E1001542,Research & Development,Research Director,3,0.011,False
+E1001962,Finance,Finance Manager,3,0.011,False
+E1001951,Sales,Sales Executive,3,0.011,False
+E1001054,Sales,Manager,4,0.011,False
+E1001053,Development,Developer,3,0.011,False
+E1002131,Sales,Sales Executive,3,0.011,False
+E1002281,Research & Development,Research Director,3,0.011,False
+E1001792,Research & Development,Manager R&D,3,0.011,False
+E1001665,Sales,Sales Executive,3,0.011,False
+E100734,Sales,Sales Executive,3,0.011,False
+E100947,Sales,Sales Representative,3,0.011,False
+E100438,Sales,Sales Executive,3,0.011,False
+E1001705,Sales,Sales Representative,3,0.011,False
+E100520,Development,Developer,3,0.011,False
+E1001856,Sales,Manager,4,0.011,False
+E1001403,Sales,Sales Executive,3,0.011,False
+E100492,Development,Technical Lead,4,0.011,False
+E100422,Development,Developer,3,0.011,False
+E1002000,Human Resources,Human Resources,3,0.01,False
+E1002025,Human Resources,Human Resources,3,0.01,False
+E1001996,Research & Development,Laboratory Technician,3,0.01,False
+E1001725,Research & Development,Laboratory Technician,3,0.01,False
+E1001727,Research & Development,Laboratory Technician,3,0.01,False
+E1002276,Research & Development,Research Scientist,3,0.01,False
+E100334,Sales,Sales Executive,3,0.01,False
+E100327,Sales,Sales Representative,3,0.01,False
+E1001558,Sales,Manager,3,0.01,False
+E100774,Development,Developer,3,0.01,False
+E100778,Sales,Sales Executive,3,0.01,False
+E1001310,Research & Development,Manufacturing Director,3,0.01,False
+E100707,Development,Developer,3,0.01,False
+E100757,Sales,Sales Executive,3,0.01,False
+E100727,Sales,Sales Executive,3,0.01,False
+E1001307,Sales,Manager,4,0.01,False
+E1002258,Research & Development,Manufacturing Director,3,0.01,False
+E1002216,Sales,Manager,3,0.01,False
+E1001289,Research & Development,Manufacturing Director,3,0.01,False
+E1001939,Finance,Finance Manager,3,0.01,False
+E100357,Development,Developer,3,0.01,False
+E100350,Sales,Sales Executive,3,0.01,False
+E1001866,Sales,Sales Executive,3,0.01,False
+E100605,Sales,Manager,4,0.01,False
+E1002010,Sales,Sales Executive,3,0.01,False
+E1001482,Sales,Manager,4,0.01,False
+E1002033,Research & Development,Research Scientist,3,0.01,False
+E100318,Development,Technical Architect,3,0.01,False
+E1002049,Research & Development,Research Scientist,3,0.01,False
+E1002331,Research & Development,Research Scientist,3,0.01,False
+E1002340,Research & Development,Healthcare Representative,3,0.01,False
+E1002108,Research & Development,Research Scientist,3,0.01,False
+E100289,Development,Senior Developer,4,0.01,False
+E1001935,Sales,Sales Representative,3,0.01,False
+E1001978,Sales,Sales Executive,3,0.01,False
+E100582,Development,Technical Lead,3,0.01,False
+E1001556,Research & Development,Healthcare Representative,3,0.01,False
+E100621,Development,Developer,4,0.01,False
+E1002052,Sales,Sales Executive,3,0.01,False
+E1001049,Development,Senior Developer,3,0.01,False
+E1001238,Development,Developer,3,0.01,False
+E1001628,Research & Development,Research Scientist,3,0.01,False
+E1001040,Development,Developer,3,0.01,False
+E1001630,Human Resources,Manager,3,0.01,False
+E1001570,Research & Development,Research Scientist,3,0.01,False
+E1001262,Sales,Sales Executive,3,0.01,False
+E1001265,Development,Senior Developer,3,0.01,False
+E1001533,Research & Development,Research Director,3,0.01,False
+E1001529,Research & Development,Manager R&D,3,0.01,False
+E1001971,Finance,Finance Manager,4,0.01,False
+E1001901,Finance,Finance Manager,3,0.01,False
+E1002093,Sales,Sales Executive,3,0.01,False
+E1001120,Sales,Sales Executive,3,0.01,False
+E1002076,Research & Development,Research Scientist,3,0.01,False
+E1001627,Sales,Sales Executive,3,0.01,False
+E1001618,Research & Development,Research Scientist,3,0.01,False
+E1001602,Sales,Sales Executive,3,0.01,False
+E1001590,Research & Development,Healthcare Representative,3,0.01,False
+E1001587,Research & Development,Manager R&D,3,0.01,False
+E1001585,Research & Development,Manager,3,0.01,False
+E1001582,Sales,Sales Executive,3,0.01,False
+E1001579,Research & Development,Research Scientist,3,0.01,False
+E1001576,Research & Development,Manufacturing Director,3,0.01,False
+E100375,Development,Developer,3,0.01,False
+E100836,Sales,Manager,3,0.01,False
+E1001835,Sales,Sales Executive,3,0.01,False
+E1001496,Sales,Sales Executive,3,0.01,False
+E1001260,Sales,Sales Executive,3,0.01,False
+E1001489,Sales,Sales Executive,3,0.01,False
+E1001646,Research & Development,Manager R&D,4,0.01,False
+E100571,Sales,Sales Executive,3,0.01,False
+E1001636,Research & Development,Laboratory Technician,3,0.01,False
+E100560,Development,Technical Lead,3,0.01,False
+E1001188,Human Resources,Human Resources,3,0.01,False
+E1002327,Research & Development,Research Scientist,3,0.01,False
+E1001850,Research & Development,Manufacturing Director,3,0.01,False
+E1001846,Sales,Sales Executive,3,0.01,False
+E1001469,Research & Development,Manager,3,0.01,False
+E1001463,Research & Development,Laboratory Technician,3,0.01,False
+E1001399,Research & Development,Manufacturing Director,3,0.01,False
+E1001397,Sales,Sales Executive,3,0.01,False
+E1002301,Sales,Sales Representative,3,0.01,False
+E1002303,Research & Development,Manufacturing Director,3,0.01,False
+E100493,Sales,Sales Executive,3,0.01,False
+E100518,Sales,Sales Executive,3,0.01,False
+E1001779,Research & Development,Manager R&D,3,0.01,False
+E100883,Development,Developer,4,0.01,False
+E1001700,Research & Development,Research Director,3,0.01,False
+E1001686,Human Resources,Manager,3,0.01,False
+E1001746,Research & Development,Research Director,3,0.01,False
+E1001752,Research & Development,Research Scientist,4,0.01,False
+E1001317,Sales,Sales Executive,3,0.01,False
+E1001187,Human Resources,Human Resources,3,0.01,False
+E100891,Sales,Manager,4,0.01,False
+E100884,Sales,Sales Executive,3,0.01,False
+E1001781,Sales,Sales Executive,3,0.01,False
+E1001078,Sales,Sales Executive,3,0.01,False
+E1001074,Sales,Sales Executive,3,0.01,False
+E1001077,Development,Developer,3,0.01,False
+E1001091,Development,Senior Developer,4,0.01,False
+E1001086,Sales,Sales Executive,3,0.01,False
+E100539,Development,Developer,3,0.01,False
+E1001674,Sales,Sales Executive,3,0.01,False
+E1001321,Research & Development,Manufacturing Director,3,0.01,False
+E1001828,Human Resources,Manager,4,0.01,False
+E1001709,Research & Development,Research Scientist,3,0.01,False
+E100893,Sales,Sales Executive,3,0.01,False
+E1001324,Research & Development,Senior Manager R&D,3,0.01,False
+E1001330,Research & Development,Laboratory Technician,3,0.01,False
+E1002225,Research & Development,Manager R&D,3,0.01,False
+E100748,Human Resources,Human Resources,3,0.01,False
+E100934,Sales,Sales Executive,3,0.01,False
+E1001098,Development,Developer,3,0.01,False
+E100741,Sales,Sales Executive,3,0.01,False
+E1001000,Sales,Sales Executive,3,0.01,False
+E1002243,Sales,Sales Executive,3,0.009,False
+E1001107,Human Resources,Human Resources,3,0.009,False
+E1001016,Sales,Sales Representative,3,0.009,False
+E100744,Development,Developer,3,0.009,False
+E100740,Development,Delivery Manager,3,0.009,False
+E1001025,Sales,Sales Executive,4,0.009,False
+E1001011,Development,Developer,4,0.009,False
+E1001007,Sales,Sales Executive,4,0.009,False
+E1001410,Research & Development,Laboratory Technician,3,0.009,False
+E1001340,Research & Development,Healthcare Representative,3,0.009,False
+E1001338,Research & Development,Senior Manager R&D,3,0.009,False
+E1001334,Sales,Sales Representative,4,0.009,False
+E100688,Sales,Manager,3,0.009,False
+E100783,Development,Delivery Manager,3,0.009,False
+E1002187,Sales,Sales Executive,4,0.009,False
+E1002178,Research & Development,Manager,3,0.009,False
+E1002239,Sales,Sales Representative,3,0.009,False
+E1002233,Research & Development,Manager R&D,3,0.009,False
+E1002160,Sales,Sales Executive,3,0.009,False
+E1002156,Research & Development,Research Scientist,4,0.009,False
+E100754,Sales,Sales Executive,3,0.009,False
+E100747,Sales,Sales Executive,3,0.009,False
+E1002128,Research & Development,Manager R&D,3,0.009,False
+E1002114,Sales,Sales Executive,3,0.009,False
+E1002161,Research & Development,Laboratory Technician,3,0.009,False
+E1002326,Research & Development,Research Scientist,3,0.009,False
+E1002318,Human Resources,Human Resources,3,0.009,False
+E1002315,Sales,Sales Executive,3,0.009,False
+E1002251,Human Resources,Manager,3,0.009,False
+E1002270,Research & Development,Laboratory Technician,3,0.009,False
+E100773,Development,Delivery Manager,3,0.009,False
+E100770,Sales,Sales Executive,3,0.009,False
+E100730,Development,Developer,3,0.009,False
+E100729,Development,Delivery Manager,3,0.009,False
+E100723,Sales,Sales Executive,3,0.009,False
+E100719,Development,Delivery Manager,3,0.009,False
+E100716,Sales,Sales Executive,3,0.009,False
+E1001440,Research & Development,Research Scientist,3,0.009,False
+E1001439,Research & Development,Healthcare Representative,3,0.009,False
+E1001438,Research & Development,Laboratory Technician,3,0.009,False
+E1002138,Research & Development,Manager R&D,3,0.009,False
+E1002137,Research & Development,Healthcare Representative,3,0.009,False
+E1002136,Human Resources,Human Resources,3,0.009,False
+E1002080,Research & Development,Laboratory Technician,3,0.009,False
+E1002072,Human Resources,Human Resources,3,0.009,False
+E1002068,Research & Development,Manager R&D,3,0.009,False
+E1002213,Sales,Sales Executive,3,0.009,False
+E1002205,Sales,Sales Executive,3,0.009,False
+E1002193,Sales,Sales Executive,3,0.009,False
+E100698,Sales,Sales Executive,3,0.009,False
+E1001374,Research & Development,Manager R&D,3,0.009,False
+E1001366,Research & Development,Healthcare Representative,3,0.009,False
+E1001354,Sales,Sales Executive,3,0.009,False
+E1001348,Sales,Sales Executive,3,0.009,False
+E1001344,Sales,Sales Executive,3,0.009,False
+E1001499,Research & Development,Laboratory Technician,3,0.009,False
+E1001495,Research & Development,Manager R&D,3,0.009,False
+E100641,Sales,Manager,3,0.009,False
+E100674,Development,Developer,3,0.009,False
+E1002048,Research & Development,Research Director,3,0.009,False
+E1002045,Research & Development,Research Scientist,3,0.009,False
+E1002032,Sales,Sales Executive,3,0.009,False
+E1002029,Research & Development,Manager R&D,3,0.009,False
+E1002015,Research & Development,Laboratory Technician,3,0.009,False
+E1002313,Sales,Sales Executive,4,0.009,False
+E1001134,Development,Senior Developer,3,0.009,False
+E1001130,Development,Developer,3,0.009,False
+E100671,Development,Developer,3,0.009,False
+E1001432,Research & Development,Research Scientist,3,0.009,False
+E1001418,Research & Development,Manager R&D,3,0.009,False
+E1001416,Sales,Sales Executive,3,0.009,False
+E1001413,Sales,Sales Representative,3,0.009,False
+E1001398,Research & Development,Manager R&D,4,0.009,False
+E100612,Data Science,Data Scientist,3,0.009,False
+E1001484,Research & Development,Research Scientist,3,0.009,False
+E1001481,Research & Development,Manager R&D,3,0.009,False
+E1001159,Development,Developer,3,0.009,False
+E100339,Development,Developer,4,0.009,False
+E1002060,Research & Development,Manager R&D,3,0.009,False
+E1002105,Research & Development,Manager R&D,3,0.009,False
+E1002333,Sales,Sales Executive,3,0.009,False
+E1001479,Research & Development,Manager R&D,3,0.009,False
+E1001478,Research & Development,Manager R&D,3,0.009,False
+E1001474,Research & Development,Manufacturing Director,3,0.009,False
+E1001253,Sales,Sales Executive,3,0.009,False
+E1001245,Sales,Sales Executive,3,0.009,False
+E1001462,Research & Development,Healthcare Representative,4,0.009,False
+E1001457,Sales,Sales Executive,3,0.009,False
+E1001445,Sales,Sales Executive,3,0.009,False
+E1001518,Sales,Sales Executive,3,0.009,False
+E100580,Sales,Sales Executive,3,0.009,False
+E1001987,Research & Development,Manager R&D,3,0.009,False
+E1001961,Human Resources,Human Resources,3,0.009,False
+E1001952,Finance,Finance Manager,3,0.009,False
+E1002005,Research & Development,Healthcare Representative,3,0.009,False
+E100803,Development,Developer,4,0.009,False
+E100794,Sales,Sales Executive,3,0.009,False
+E100627,Sales,Sales Executive,3,0.009,False
+E1001509,Human Resources,Human Resources,4,0.009,False
+E1001059,Sales,Sales Executive,4,0.009,False
+E1001645,Research & Development,Manager R&D,3,0.009,False
+E1001642,Sales,Sales Representative,3,0.009,False
+E100553,Development,Technical Lead,3,0.009,False
+E100552,Development,Developer,3,0.009,False
+E100391,Sales,Sales Representative,3,0.009,False
+E1001869,Sales,Manager,3,0.009,False
+E1001932,Finance,Finance Manager,4,0.009,False
+E1001926,Finance,Finance Manager,3,0.009,False
+E100330,Sales,Sales Executive,3,0.009,False
+E1001936,Finance,Finance Manager,3,0.009,False
+E1001934,Finance,Finance Manager,3,0.009,False
+E100601,Sales,Manager,3,0.009,False
+E1001566,Research & Development,Manager R&D,3,0.009,False
+E1001559,Sales,Sales Executive,3,0.009,False
+E100569,Sales,Sales Executive,3,0.009,False
+E100562,Development,Technical Lead,3,0.009,False
+E1001638,Research & Development,Manufacturing Director,3,0.009,False
+E1001622,Research & Development,Healthcare Representative,3,0.009,False
+E1001679,Research & Development,Manufacturing Director,3,0.009,False
+E1001596,Sales,Sales Executive,3,0.009,False
+E1001690,Research & Development,Manufacturing Director,3,0.009,False
+E1001834,Sales,Sales Representative,4,0.009,False
+E1001895,Finance,Finance Manager,3,0.009,False
+E1001893,Finance,Finance Manager,3,0.009,False
+E1001892,Finance,Finance Manager,3,0.009,False
+E1001889,Finance,Finance Manager,3,0.009,False
+E1001948,Sales,Sales Executive,3,0.009,False
+E100354,Development,Developer,4,0.009,False
+E100353,Development,Business Analyst,3,0.009,False
+E100396,Sales,Sales Executive,3,0.009,False
+E100540,Development,Technical Lead,3,0.009,False
+E100537,Development,Developer,3,0.009,False
+E100534,Development,Technical Lead,3,0.009,False
+E1001225,Sales,Sales Executive,3,0.009,False
+E1001723,Sales,Sales Executive,3,0.009,False
+E1001785,Sales,Sales Executive,3,0.009,False
+E1001782,Research & Development,Laboratory Technician,3,0.009,False
+E100519,Development,Developer,3,0.009,False
+E100517,Development,Developer,3,0.009,False
+E100420,Sales,Sales Executive,3,0.009,False
+E1001830,Research & Development,Manager R&D,3,0.009,False
+E100880,Development,Developer,3,0.009,False
+E1001916,Finance,Finance Manager,3,0.009,False
+E1001908,Finance,Finance Manager,3,0.009,False
+E1001706,Sales,Sales Executive,3,0.009,False
+E1001701,Research & Development,Manager R&D,4,0.009,False
+E1001235,Development,Developer,3,0.009,False
+E1001229,Development,Senior Developer,4,0.009,False
+E1001753,Research & Development,Manager R&D,3,0.009,False
+E1001749,Research & Development,Laboratory Technician,3,0.009,False
+E1001214,Sales,Sales Executive,3,0.009,False
+E100455,Human Resources,Human Resources,4,0.009,False
+E1001775,Sales,Sales Executive,3,0.009,False
+E1001805,Sales,Manager,3,0.009,False
+E1001793,Research & Development,Healthcare Representative,3,0.009,False
+E1001791,Research & Development,Laboratory Technician,3,0.009,False
+E1001201,Data Science,Data Scientist,3,0.009,False
+E1001200,Sales,Sales Representative,3,0.009,False
+E1001882,Finance,Finance Manager,3,0.009,False
+E1001877,Finance,Finance Manager,3,0.009,False
+E1001860,Sales,Sales Executive,3,0.009,False
+E1001851,Research & Development,Manufacturing Director,3,0.009,False
+E1001756,Sales,Sales Executive,3,0.009,False
+E1001823,Research & Development,Manufacturing Director,3,0.009,False
+E1001822,Research & Development,Healthcare Representative,3,0.009,False
+E1001820,Research & Development,Manager R&D,3,0.009,False
+E1001736,Research & Development,Laboratory Technician,4,0.009,False
+E100454,Sales,Sales Executive,3,0.009,False
+E100452,Sales,Sales Executive,3,0.009,False
+E100443,Development,Developer,3,0.009,False
+E100442,Development,Developer,3,0.009,False
+E100433,Development,Developer,4,0.009,False
+E100430,Sales,Sales Executive,3,0.009,False
+E1001095,Development,Developer,3,0.009,False
+E1002267,Research & Development,Laboratory Technician,3,0.009,False
+E1002265,Human Resources,Human Resources,3,0.009,False
+E1002254,Research & Development,Research Scientist,3,0.009,False
+E1001283,Development,Developer,3,0.009,False
+E1001276,Development,Developer,3,0.009,False
+E100746,Development,Developer,3,0.009,False
+E1001303,Research & Development,Manufacturing Director,3,0.009,False
+E1001302,Research & Development,Senior Manager R&D,3,0.009,False
+E1001292,Research & Development,Healthcare Representative,3,0.009,False
+E1001291,Research & Development,Senior Manager R&D,3,0.009,False
+E1001064,Sales,Sales Executive,4,0.009,False
+E100939,Development,Developer,3,0.009,False
+E100921,Development,Developer,4,0.008,False
+E100916,Development,Senior Developer,3,0.008,False
+E100941,Development,Senior Developer,3,0.008,False
+E100940,Development,Developer,3,0.008,False
+E100993,Development,Senior Developer,3,0.008,False
+E100992,Sales,Sales Executive,4,0.008,False
+E1001284,Research & Development,Senior Manager R&D,3,0.008,False
+E100912,Data Science,Data Scientist,3,0.008,False
+E1001296,Research & Development,Senior Manager R&D,3,0.008,False
+E1001304,Research & Development,Manufacturing Director,3,0.008,False
+E1001269,Development,Developer,4,0.008,False
+E1001270,Sales,Manager,3,0.008,False
+E1001274,Development,Developer,3,0.008,False
+E1001275,Development,Senior Developer,4,0.008,False
+E1002252,Research & Development,Manager R&D,3,0.008,False
+E1002215,Research & Development,Manager R&D,3,0.008,False
+E1001104,Development,Senior Developer,3,0.008,False
+E1001105,Development,Developer,3,0.008,False
+E1001106,Development,Developer,3,0.008,False
+E100448,Development,Developer,3,0.008,False
+E1001739,Human Resources,Human Resources,3,0.008,False
+E1001813,Sales,Sales Executive,3,0.008,False
+E1001817,Research & Development,Research Director,3,0.008,False
+E1001824,Research & Development,Research Scientist,4,0.008,False
+E100814,Development,Senior Developer,3,0.008,False
+E1001854,Research & Development,Manager R&D,3,0.008,False
+E100877,Sales,Sales Executive,3,0.008,False
+E100471,Development,Developer,4,0.008,False
+E100475,Development,Developer,3,0.008,False
+E100478,Development,Developer,4,0.008,False
+E100486,Development,Technical Lead,3,0.008,False
+E1001757,Sales,Sales Executive,3,0.008,False
+E1001760,Research & Development,Research Scientist,3,0.008,False
+E1001762,Research & Development,Manager R&D,3,0.008,False
+E1001082,Development,Developer,3,0.008,False
+E100470,Development,Technical Lead,3,0.008,False
+E1001218,Development,Senior Developer,3,0.008,False
+E1001755,Sales,Sales Executive,3,0.008,False
+E100821,Development,Developer,3,0.008,False
+E100834,Data Science,Data Scientist,4,0.008,False
+E100373,Development,Business Analyst,3,0.008,False
+E100378,Sales,Sales Executive,3,0.008,False
+E1001909,Finance,Finance Manager,3,0.008,False
+E1001829,Research & Development,Laboratory Technician,3,0.008,False
+E1001179,Development,Developer,3,0.008,False
+E1001180,Development,Developer,3,0.008,False
+E100399,Sales,Sales Executive,3,0.008,False
+E100412,Development,Developer,3,0.008,False
+E100421,Development,Business Analyst,3,0.008,False
+E100516,Development,Technical Lead,3,0.008,False
+E1001069,Development,Developer,3,0.008,False
+E1001647,Research & Development,Laboratory Technician,3,0.008,False
+E1001651,Research & Development,Manager R&D,3,0.008,False
+E1001660,Research & Development,Research Scientist,3,0.008,False
+E1001670,Research & Development,Manager R&D,3,0.008,False
+E100538,Development,Developer,3,0.008,False
+E1001940,Finance,Finance Manager,3,0.008,False
+E1001942,Finance,Finance Manager,4,0.008,False
+E1001949,Finance,Finance Manager,3,0.008,False
+E1001891,Sales,Sales Executive,3,0.008,False
+E1001203,Sales,Sales Representative,3,0.008,False
+E1001208,Development,Developer,3,0.008,False
+E1001841,Human Resources,Human Resources,3,0.008,False
+E1001085,Development,Developer,4,0.008,False
+E1001090,Development,Senior Developer,3,0.008,False
+E100509,Development,Developer,4,0.008,False
+E100513,Sales,Sales Representative,4,0.008,False
+E1001681,Sales,Sales Executive,3,0.008,False
+E1001683,Research & Development,Research Scientist,3,0.008,False
+E1001675,Research & Development,Manager R&D,4,0.008,False
+E1001607,Sales,Sales Executive,3,0.008,False
+E1001614,Research & Development,Manager,3,0.008,False
+E1001641,Research & Development,Manufacturing Director,3,0.008,False
+E100576,Sales,Manager,3,0.008,False
+E100523,Development,Technical Lead,3,0.008,False
+E100525,Development,Developer,3,0.008,False
+E100527,Development,Developer,3,0.008,False
+E100528,Development,Technical Lead,3,0.008,False
+E100530,Development,Developer,3,0.008,False
+E1001553,Research & Development,Research Scientist,4,0.008,False
+E1001561,Research & Development,Manager R&D,3,0.008,False
+E1001564,Research & Development,Laboratory Technician,3,0.008,False
+E1001569,Research & Development,Research Scientist,3,0.008,False
+E100586,Development,Developer,3,0.008,False
+E100594,Development,Technical Lead,3,0.008,False
+E100368,Development,Developer,3,0.008,False
+E100372,Development,Business Analyst,4,0.008,False
+E100324,Development,Technical Architect,3,0.008,False
+E100331,Development,Developer,3,0.008,False
+E1001919,Finance,Finance Manager,3,0.008,False
+E1001931,Finance,Finance Manager,3,0.008,False
+E1001870,Finance,Finance Manager,3,0.008,False
+E1001875,Finance,Finance Manager,3,0.008,False
+E100395,Development,Developer,3,0.008,False
+E100548,Development,Developer,3,0.008,False
+E1001574,Research & Development,Laboratory Technician,3,0.008,False
+E1001595,Research & Development,Manager R&D,3,0.008,False
+E1001512,Research & Development,Laboratory Technician,4,0.008,False
+E1001513,Research & Development,Manager R&D,3,0.008,False
+E1001515,Research & Development,Manufacturing Director,4,0.008,False
+E100577,Sales,Sales Executive,3,0.008,False
+E100300,Development,Senior Developer,3,0.008,False
+E100302,Development,Developer,3,0.008,False
+E100313,Sales,Sales Executive,3,0.008,False
+E1001173,Development,Senior Developer,3,0.008,False
+E1001178,Sales,Sales Representative,3,0.008,False
+E1002014,Research & Development,Manufacturing Director,4,0.008,False
+E1001897,Finance,Finance Manager,3,0.008,False
+E1001905,Finance,Finance Manager,3,0.008,False
+E1001965,Finance,Finance Manager,3,0.008,False
+E1001970,Finance,Finance Manager,3,0.008,False
+E1001981,Research & Development,Healthcare Representative,3,0.008,False
+E1001984,Sales,Sales Executive,3,0.008,False
+E1001520,Research & Development,Research Director,3,0.008,False
+E1001528,Research & Development,Research Director,3,0.008,False
+E1001535,Research & Development,Research Scientist,3,0.008,False
+E1001536,Research & Development,Laboratory Technician,3,0.008,False
+E1001538,Research & Development,Manager R&D,3,0.008,False
+E1001254,Development,Senior Developer,3,0.008,False
+E100317,Development,Developer,3,0.008,False
+E100286,Development,Senior Developer,3,0.008,False
+E100288,Development,Senior Developer,4,0.008,False
+E1002057,Sales,Sales Executive,3,0.008,False
+E100332,Development,Technical Architect,3,0.008,False
+E1001990,Research & Development,Manager R&D,4,0.008,False
+E1001146,Sales,Sales Executive,3,0.008,False
+E1001160,Development,Developer,3,0.008,False
+E100341,Development,Technical Architect,3,0.008,False
+E100343,Development,Technical Architect,3,0.008,False
+E100297,Development,Developer,3,0.008,False
+E100655,Development,Technical Lead,4,0.008,False
+E100616,Development,Developer,3,0.008,False
+E100625,Development,Developer,3,0.008,False
+E1001044,Sales,Sales Representative,3,0.008,False
+E1001391,Sales,Sales Executive,3,0.008,False
+E1001392,Sales,Sales Executive,3,0.008,False
+E1001415,Sales,Sales Executive,3,0.008,False
+E1001126,Development,Developer,3,0.008,False
+E1001142,Sales,Sales Executive,3,0.008,False
+E1002085,Research & Development,Laboratory Technician,3,0.008,False
+E1002304,Research & Development,Healthcare Representative,4,0.008,False
+E1002023,Research & Development,Manager R&D,3,0.008,False
+E1002034,Sales,Sales Executive,3,0.008,False
+E1002038,Research & Development,Laboratory Technician,3,0.008,False
+E1002050,Research & Development,Laboratory Technician,4,0.008,False
+E100677,Sales,Sales Representative,3,0.008,False
+E100679,Sales,Sales Executive,3,0.008,False
+E100639,Sales,Sales Executive,3,0.008,False
+E1001351,Research & Development,Manufacturing Director,3,0.008,False
+E1001362,Research & Development,Senior Manager R&D,3,0.008,False
+E100695,Development,Technical Lead,3,0.008,False
+E1002132,Research & Development,Research Scientist,4,0.008,False
+E1002277,Research & Development,Research Scientist,4,0.008,False
+E1002196,Research & Development,Manager R&D,3,0.008,False
+E1002143,Human Resources,Human Resources,3,0.008,False
+E1002061,Research & Development,Manager R&D,3,0.008,False
+E1002135,Research & Development,Manufacturing Director,3,0.008,False
+E1002140,Sales,Sales Executive,3,0.008,False
+E100706,Development,Developer,3,0.008,False
+E100664,Development,Technical Lead,3,0.008,False
+E100669,Development,Technical Lead,3,0.008,False
+E1001387,Research & Development,Manager,3,0.008,False
+E100715,Sales,Sales Executive,3,0.008,False
+E100779,Development,Developer,3,0.008,False
+E1002190,Sales,Sales Executive,3,0.008,False
+E100845,Sales,Sales Executive,3,0.008,False
+E100855,Development,Developer,3,0.008,False
+E100864,Development,Senior Developer,3,0.008,False
+E1002273,Sales,Sales Executive,3,0.008,False
+E1002316,Research & Development,Research Scientist,3,0.008,False
+E1002120,Human Resources,Human Resources,3,0.008,False
+E1002125,Research & Development,Research Scientist,4,0.008,False
+E1001312,Research & Development,Healthcare Representative,3,0.008,False
+E100752,Development,Delivery Manager,3,0.008,False
+E100708,Development,Developer,3,0.008,False
+E100712,Development,Technical Lead,3,0.008,False
+E100714,Sales,Sales Executive,3,0.008,False
+E1002145,Research & Development,Manager R&D,3,0.008,False
+E1002229,Sales,Sales Executive,3,0.008,False
+E1002238,Research & Development,Manager R&D,3,0.008,False
+E100684,Sales,Sales Executive,3,0.008,False
+E100987,Sales,Sales Executive,4,0.008,False
+E1001030,Development,Developer,3,0.008,False
+E100964,Development,Developer,3,0.008,False
+E100739,Development,Developer,3,0.008,False
+E1001024,Sales,Sales Executive,3,0.008,False
+E1002240,Sales,Sales Executive,3,0.008,False
+E1001027,Sales,Sales Representative,3,0.008,False
+E1002244,Research & Development,Manager R&D,4,0.008,False
+E1002248,Research & Development,Manager R&D,4,0.008,False
+E1002250,Human Resources,Human Resources,3,0.008,False
+E100979,Development,Senior Developer,3,0.008,False
+E100985,Sales,Sales Executive,4,0.007,False
+E100937,Development,Developer,3,0.007,False
+E100944,Sales,Sales Representative,3,0.007,False
+E100958,Development,Developer,4,0.007,False
+E100738,Development,Delivery Manager,3,0.007,False
+E100742,Development,Delivery Manager,3,0.007,False
+E100709,Development,Technical Lead,3,0.007,False
+E100760,Development,Developer,3,0.007,False
+E100775,Data Science,Data Scientist,3,0.007,False
+E100771,Development,Developer,3,0.007,False
+E100761,Development,Delivery Manager,3,0.007,False
+E100701,Development,Developer,3,0.007,False
+E100686,Development,Technical Lead,3,0.007,False
+E100673,Development,Technical Lead,4,0.007,False
+E100685,Development,Developer,3,0.007,False
+E100617,Development,Developer,3,0.007,False
+E100610,Data Science,Data Scientist,3,0.007,False
+E100650,Development,Technical Lead,3,0.007,False
+E100640,Development,Developer,3,0.007,False
+E100402,Development,Developer,3,0.007,False
+E100502,Development,Technical Lead,3,0.007,False
+E100504,Development,Technical Lead,3,0.007,False
+E100511,Development,Technical Lead,3,0.007,False
+E100618,Development,Technical Lead,3,0.007,False
+E100786,Sales,Sales Representative,3,0.007,False
+E100788,Development,Developer,4,0.007,False
+E100792,Development,Developer,4,0.007,False
+E100581,Sales,Sales Executive,3,0.007,False
+E100793,Development,Delivery Manager,3,0.007,False
+E100796,Development,Delivery Manager,3,0.007,False
+E100578,Development,Developer,3,0.007,False
+E100597,Development,Developer,3,0.007,False
+E100593,Development,Developer,3,0.007,False
+E100549,Development,Technical Lead,3,0.007,False
+E100531,Development,Developer,3,0.007,False
+E100382,Development,Developer,3,0.007,False
+E100411,Human Resources,Human Resources,4,0.007,False
+E100426,Human Resources,Manager,3,0.007,False
+E100826,Development,Developer,4,0.007,False
+E100494,Sales,Sales Representative,3,0.007,False
+E1001080,Development,Developer,3,0.007,False
+E100429,Development,Business Analyst,3,0.007,False
+E100431,Development,Business Analyst,3,0.007,False
+E100376,Development,Developer,4,0.007,False
+E1002299,Sales,Sales Representative,3,0.007,False
+E1002338,Sales,Sales Representative,3,0.007,False
+E1002343,Sales,Sales Executive,3,0.007,False
+E100310,Development,Senior Developer,3,0.007,False
+E100335,Development,Developer,4,0.007,False
+E100348,Development,Technical Architect,3,0.007,False
+E100397,Development,Developer,4,0.007,False
+E1001006,Sales,Sales Executive,3,0.007,False
+E1001272,Development,Developer,4,0.007,False
+E1001280,Development,Developer,3,0.007,False
+E1001281,Sales,Sales Executive,3,0.007,False
+E1001593,Research & Development,Manager R&D,3,0.007,False
+E1001572,Research & Development,Manufacturing Director,3,0.007,False
+E100899,Sales,Sales Executive,3,0.007,False
+E1002314,Sales,Sales Executive,4,0.007,False
+E1001101,Development,Developer,3,0.007,False
+E100856,Development,Developer,3,0.007,False
+E100857,Development,Senior Developer,3,0.007,False
+E100863,Sales,Sales Representative,3,0.007,False
+E1001111,Development,Developer,4,0.007,False
+E1001102,Development,Senior Developer,4,0.007,False
+E1002163,Research & Development,Research Scientist,4,0.007,False
+E1002146,Research & Development,Research Scientist,4,0.007,False
+E1001969,Sales,Sales Representative,3,0.007,False
+E1001975,Research & Development,Healthcare Representative,4,0.007,False
+E1002164,Research & Development,Manufacturing Director,3,0.007,False
+E1001128,Development,Developer,3,0.007,False
+E1001143,Development,Developer,3,0.007,False
+E1002090,Sales,Sales Executive,3,0.007,False
+E1001122,Development,Developer,3,0.007,False
+E1001997,Research & Development,Manager R&D,3,0.007,False
+E1001181,Sales,Sales Executive,4,0.007,False
+E1001202,Data Science,Data Scientist,3,0.007,False
+E1001958,Sales,Sales Representative,3,0.007,False
+E1001944,Finance,Finance Manager,4,0.007,False
+E1001230,Sales,Sales Representative,3,0.007,False
+E1001228,Development,Senior Developer,3,0.007,False
+E1001773,Sales,Sales Representative,3,0.007,False
+E1001770,Sales,Sales Representative,3,0.007,False
+E100908,Development,Developer,3,0.007,False
+E1001355,Sales,Sales Representative,3,0.007,False
+E1001358,Research & Development,Senior Manager R&D,4,0.007,False
+E100995,Data Science,Data Scientist,3,0.007,False
+E100967,Development,Developer,3,0.007,False
+E1001453,Research & Development,Manager R&D,3,0.007,False
+E1001451,Research & Development,Laboratory Technician,4,0.007,False
+E1001548,Research & Development,Research Scientist,4,0.007,False
+E1001250,Development,Developer,3,0.007,False
+E1001047,Development,Developer,3,0.007,False
+E1001041,Development,Developer,4,0.007,False
+E1001357,Research & Development,Senior Manager R&D,3,0.007,False
+E1001393,Research & Development,Research Scientist,3,0.007,False
+E1001493,Research & Development,Manager R&D,4,0.007,False
+E100945,Sales,Sales Representative,3,0.006,False
+E100722,Development,Developer,3,0.006,False
+E100828,Data Science,Data Scientist,3,0.006,False
+E100833,Sales,Sales Representative,3,0.006,False
+E100629,Development,Developer,3,0.006,False
+E100772,Sales,Sales Representative,3,0.006,False
+E100725,Data Science,Data Scientist,3,0.006,False
+E1001988,Sales,Sales Representative,3,0.006,False
+E100361,Development,Business Analyst,3,0.006,False
+E1002183,Research & Development,Research Scientist,4,0.006,False
+E1001165,Data Science,Data Scientist,3,0.006,False
+E1001223,Data Science,Data Scientist,3,0.006,False
+E1001541,Research & Development,Research Director,4,0.006,False
+E1001058,Development,Developer,3,0.006,False
+E1001468,Sales,Sales Representative,3,0.006,False
+E1001252,Sales,Sales Representative,3,0.006,False
+E100994,Development,Senior Developer,3,0.006,False
+E1001649,Sales,Sales Executive,4,0.005,False
